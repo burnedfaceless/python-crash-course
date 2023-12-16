@@ -1,2 +1,2 @@
 # Python Crash Course
-I am learning Python so that I can work with data strctures (CSV, JSON). I have a God Awful project where I have to build a database out of a billing software database so that I can integrate Twilio Flex. I'm also looking forward to using Python as a research assistant. 
+This book was written by Eric Matthews. [Link](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1?crid=2G8EHSSV6XXW5&keywords=python+crash+course&qid=1702702327&sprefix=python+crash+course%2Caps%2C121&sr=8-1)
