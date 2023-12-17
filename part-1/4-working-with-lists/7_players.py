@@ -11,4 +11,4 @@ print(players[-3:])
 
 for player in players[:3]:
     print(player.title())
-    
+
